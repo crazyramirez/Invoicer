@@ -32,6 +32,7 @@ Este proyecto es de dominio público. Puedes copiar, modificar, distribuir y rea
 
 ## Imágenes de demostración
 
-<img src="images/demo_1.jpg" alt="Demo 1" width="45%">
-<img src="images/demo_2.jpg" alt="Demo 2" width="45%">
-
+<p align="center">
+  <img src="images/demo_1.jpg" alt="Demo 1" width="45%">
+  <img src="images/demo_2.jpg" alt="Demo 2" width="45%">
+</p>
