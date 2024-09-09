@@ -24,7 +24,7 @@ Aplicación web sencilla para crear facturas rápidas y elegantes.
 
 ## Demo
 
-Si lo deseas, puedes probar la aplicación abriendo `test.html`
+Si lo deseas, puedes probar la aplicación con el formulario de ejemplo abriendo `test.html`
 
 ## Licencia
 
