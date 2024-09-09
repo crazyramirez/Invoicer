@@ -1,6 +1,6 @@
 # Invoicer WebAPP
 
-Aplicación web sencilla para crear facturas rápidas y elegantes.
+Mini Aplicación Web sencilla para crear facturas rápidas y elegantes.
 Programada usando Cursor y ChatGPT.
 
 ## Características
