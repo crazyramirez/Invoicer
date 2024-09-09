@@ -1,13 +1,13 @@
-# Invoices
+# Invoicer WebAPP
 
 Aplicación web sencilla para crear facturas rápidas y elegantes.
 
 ## Características
 
-- Generación de facturas en PDF
+- Generación simple de facturas en PDF
 - Diseño minimalista y elegante
 - No requiere instalación ni servidor
-- No almacena datos
+- No almacena ningún tipo de dato
 
 ## Tecnologías
 
@@ -24,8 +24,15 @@ Aplicación web sencilla para crear facturas rápidas y elegantes.
 
 ## Demo
 
-Prueba la aplicación con `test.html`
+Si lo deseas, puedes probar la aplicación abriendo `test.html`
 
 ## Licencia
 
 Este proyecto es de dominio público. Puedes copiar, modificar, distribuir y realizar el trabajo, incluso para fines comerciales, sin pedir permiso.
+
+## Imágenes de demostración
+
+<p align="center">
+  <img src="images/demo_1.jpg" alt="Demo 1" width="45%">
+  <img src="images/demo_2.jpg" alt="Demo 2" width="45%">
+</p>
