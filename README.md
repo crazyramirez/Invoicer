@@ -39,3 +39,7 @@ Este proyecto es de dominio público. Puedes copiar, modificar, distribuir y rea
   <img src="images/demo_1.jpg" alt="Demo 1" width="45%">
   <img src="images/demo_2.jpg" alt="Demo 2" width="45%">
 </p>
+
+> If this tool saves you time, consider supporting its development — every contribution funds more experiments and free tools for the community. ☕
+>
+> <a href="https://www.buymeacoffee.com/drlerian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
